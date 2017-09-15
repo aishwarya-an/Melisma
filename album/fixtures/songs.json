@@ -1,0 +1,48 @@
+[
+  {
+    "model": "album.Song",
+    "pk": 1,
+    "fields": {
+      "name": "Song 1",
+      "singer": "ABC",
+      "duration": "1:00"
+    }
+  },
+  {                                                                             
+    "model": "album.Song",                                                      
+    "pk": 2,                                                                    
+    "fields": {                                                                 
+      "name": "Song 2",                                                         
+      "singer": "ABC",                                                          
+      "duration": "2:00"                                                        
+    }                                                                           
+  },
+  {                                                                             
+    "model": "album.Song",                                                      
+    "pk": 3,                                                                    
+    "fields": {                                                                 
+      "name": "Song 3",                                                         
+      "singer": "BC",                                                          
+      "duration": "4:20"                                                        
+    }                                                                           
+  },
+  {                                                                             
+    "model": "album.Song",                                                      
+    "pk": 4,                                                                    
+    "fields": {                                                                 
+      "name": "Song 4",                                                         
+      "singer": "ABCD",                                                          
+      "duration": "1:04"                                                        
+    }                                                                           
+  },
+  {                                                                             
+    "model": "album.Song",                                                      
+    "pk": 5,                                                                    
+    "fields": {                                                                 
+      "name": "Song 5",                                                         
+      "singer": "ABCD",                                                          
+      "duration": "10:00"                                                        
+    }                                                                           
+  }
+]
+
